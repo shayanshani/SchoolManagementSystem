@@ -1,0 +1,59 @@
+G:\ClientProject\SchoolManagementSystem\SchoolManagementSystem\bin\SchoolManagementSystem.dll.config
+G:\ClientProject\SchoolManagementSystem\SchoolManagementSystem\bin\SchoolManagementSystem.dll
+G:\ClientProject\SchoolManagementSystem\SchoolManagementSystem\bin\SchoolManagementSystem.pdb
+G:\ClientProject\SchoolManagementSystem\SchoolManagementSystem\bin\SubSonic.dll
+G:\ClientProject\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.dll
+G:\ClientProject\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
+G:\ClientProject\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csprojResolveAssemblyReference.cache
+F:\Client Projects\SchoolManagementSystem\SchoolManagementSystem\SchoolManagementSystem\bin\SchoolManagementSystem.dll.config
+F:\Client Projects\SchoolManagementSystem\SchoolManagementSystem\SchoolManagementSystem\bin\SchoolManagementSystem.dll
+F:\Client Projects\SchoolManagementSystem\SchoolManagementSystem\SchoolManagementSystem\bin\SchoolManagementSystem.pdb
+F:\Client Projects\SchoolManagementSystem\SchoolManagementSystem\SchoolManagementSystem\bin\AjaxControlToolkit.dll
+F:\Client Projects\SchoolManagementSystem\SchoolManagementSystem\SchoolManagementSystem\bin\telerik.web.ui.dll
+F:\Client Projects\SchoolManagementSystem\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.dll
+F:\Client Projects\SchoolManagementSystem\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
+F:\Client Projects\SchoolManagementSystem\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csprojResolveAssemblyReference.cache
+D:\SchoolManagementSystem\SchoolManagementSystem\SchoolManagementSystem\SchoolManagementSystem\bin\SchoolManagementSystem.dll.config
+D:\SchoolManagementSystem\SchoolManagementSystem\SchoolManagementSystem\SchoolManagementSystem\bin\SchoolManagementSystem.dll
+D:\SchoolManagementSystem\SchoolManagementSystem\SchoolManagementSystem\SchoolManagementSystem\bin\SchoolManagementSystem.pdb
+D:\SchoolManagementSystem\SchoolManagementSystem\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.dll
+D:\SchoolManagementSystem\SchoolManagementSystem\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
+D:\SchoolManagementSystem\SchoolManagementSystem\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csprojResolveAssemblyReference.cache
+D:\SchoolManagementSystem\SchoolManagementSystem\SchoolManagementSystem\bin\SchoolManagementSystem.dll.config
+D:\SchoolManagementSystem\SchoolManagementSystem\SchoolManagementSystem\bin\SchoolManagementSystem.dll
+D:\SchoolManagementSystem\SchoolManagementSystem\SchoolManagementSystem\bin\SchoolManagementSystem.pdb
+D:\SchoolManagementSystem\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.dll
+D:\SchoolManagementSystem\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
+F:\Client Projects\SchoolManagementSystem\SchoolManagementSystem\bin\SchoolManagementSystem.dll.config
+F:\Client Projects\SchoolManagementSystem\SchoolManagementSystem\bin\SchoolManagementSystem.dll
+F:\Client Projects\SchoolManagementSystem\SchoolManagementSystem\bin\SchoolManagementSystem.pdb
+F:\Client Projects\SchoolManagementSystem\SchoolManagementSystem\bin\AjaxControlToolkit.dll
+F:\Client Projects\SchoolManagementSystem\SchoolManagementSystem\bin\telerik.web.ui.dll
+F:\Client Projects\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csprojResolveAssemblyReference.cache
+F:\Client Projects\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.dll
+F:\Client Projects\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
+I:\Client Projects\SchoolManagementSystem\SchoolManagementSystem\bin\SchoolManagementSystem.dll.config
+I:\Client Projects\SchoolManagementSystem\SchoolManagementSystem\bin\SchoolManagementSystem.dll
+I:\Client Projects\SchoolManagementSystem\SchoolManagementSystem\bin\SchoolManagementSystem.pdb
+I:\Client Projects\SchoolManagementSystem\SchoolManagementSystem\bin\AjaxControlToolkit.dll
+I:\Client Projects\SchoolManagementSystem\SchoolManagementSystem\bin\telerik.web.ui.dll
+I:\Client Projects\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csprojResolveAssemblyReference.cache
+I:\Client Projects\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.dll
+I:\Client Projects\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
+I:\Client Projects\PakPearl\SchoolManagementSystem\SchoolManagementSystem\bin\SchoolManagementSystem.dll.config
+I:\Client Projects\PakPearl\SchoolManagementSystem\SchoolManagementSystem\bin\SchoolManagementSystem.dll
+I:\Client Projects\PakPearl\SchoolManagementSystem\SchoolManagementSystem\bin\SchoolManagementSystem.pdb
+I:\Client Projects\PakPearl\SchoolManagementSystem\SchoolManagementSystem\bin\AjaxControlToolkit.dll
+I:\Client Projects\PakPearl\SchoolManagementSystem\SchoolManagementSystem\bin\telerik.web.ui.dll
+I:\Client Projects\PakPearl\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.dll
+I:\Client Projects\PakPearl\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
+I:\Client Projects\PakPearl\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csprojResolveAssemblyReference.cache
+I:\Client Projects\Codes\PakPearl\SchoolManagementSystem\SchoolManagementSystem\bin\SchoolManagementSystem.dll.config
+I:\Client Projects\Codes\PakPearl\SchoolManagementSystem\SchoolManagementSystem\bin\SchoolManagementSystem.dll
+I:\Client Projects\Codes\PakPearl\SchoolManagementSystem\SchoolManagementSystem\bin\SchoolManagementSystem.pdb
+I:\Client Projects\Codes\PakPearl\SchoolManagementSystem\SchoolManagementSystem\bin\AjaxControlToolkit.dll
+I:\Client Projects\Codes\PakPearl\SchoolManagementSystem\SchoolManagementSystem\bin\SpartansControls.dll
+I:\Client Projects\Codes\PakPearl\SchoolManagementSystem\SchoolManagementSystem\bin\SpartansControls.pdb
+I:\Client Projects\Codes\PakPearl\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csprojResolveAssemblyReference.cache
+I:\Client Projects\Codes\PakPearl\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.dll
+I:\Client Projects\Codes\PakPearl\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb

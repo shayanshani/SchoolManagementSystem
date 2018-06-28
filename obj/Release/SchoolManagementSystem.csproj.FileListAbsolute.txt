@@ -1,0 +1,7 @@
+G:\ClientProject\SchoolManagementSystem\SchoolManagementSystem\bin\SchoolManagementSystem.dll.config
+G:\ClientProject\SchoolManagementSystem\SchoolManagementSystem\bin\SchoolManagementSystem.dll
+G:\ClientProject\SchoolManagementSystem\SchoolManagementSystem\bin\SchoolManagementSystem.pdb
+G:\ClientProject\SchoolManagementSystem\SchoolManagementSystem\obj\Release\SchoolManagementSystem.csprojResolveAssemblyReference.cache
+G:\ClientProject\SchoolManagementSystem\SchoolManagementSystem\obj\Release\SchoolManagementSystem.dll
+G:\ClientProject\SchoolManagementSystem\SchoolManagementSystem\obj\Release\SchoolManagementSystem.pdb
+G:\ClientProject\SchoolManagementSystem\SchoolManagementSystem\bin\SubSonic.dll
